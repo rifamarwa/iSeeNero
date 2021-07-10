@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128699825569",
+    "project_id": "iseenero-b4cf2",
+    "storage_bucket": "iseenero-b4cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128699825569:android:87b94c3b9d548146599fe0",
+        "android_client_info": {
+          "package_name": "com.example.iseenero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128699825569-q92hic6uglon84ctf195bqchrcsqv073.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Wd3Sd9Matg70fIB965cQPfZJ77xYrzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128699825569-q92hic6uglon84ctf195bqchrcsqv073.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
